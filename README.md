@@ -1,4 +1,4 @@
-![App Logo](C:\Users\PC\Desktop\Bestway\pool\lib\assets/logo.png)
+![App Logo](lib/assets/logo.png)
 
 Welcome to the Bestway Swimming Pools App! This Flutter application is designed to showcase our range of high-quality swimming pools,
  providing users with a seamless browsing and shopping experience.
